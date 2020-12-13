@@ -1,0 +1,28 @@
+body {
+  background: DeepSkyBlue;
+  font-family: arial;
+}
+h1,h2,p, li{
+  color: White;
+}
+a{
+  color: blue;
+}
+p{
+  background: #20EDED;
+  color: white
+  padding: 10px, 10px, 0px, 0px:
+}
+.secondary {
+  background: #3E6ECE ;
+  color: white
+}
+#special {
+  background: none;
+  color: #777
+}
+
+
+<!-- Top right bottom left
+by adding the numbers in order
+left to right follows conditions above. --->
